@@ -61,7 +61,7 @@ Predicting the stock market is hard, so a while back we invented a time-machine 
 
 Using the crypto datasets in front of you, perhaps you'll be able to make use of it.
 
-Hint: For these question you will want to consider the *expected* return, how much money could you make on average for each strategy, considering you could arrive at any date in the dataset.
+Hint: For these questions you will want to consider the *expected* return, how much money could you make on average for each strategy, considering you could arrive at any date in the dataset.
 
     Q1. If you were sent back in time to a random date in the past with one Bitcoin worth £20,000 in today’s prices. What is the probability it will be worth more when you arrive in the past?
 
